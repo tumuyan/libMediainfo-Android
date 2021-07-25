@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Has d\'obrir al menys un arxiu)</string>
+    
+  <string name="about_title" csv="About">Quant a...</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">MediaInfo proporciona informació tècnica d\'arxius de vídeo i àudio.\nExcepte la interfaç gràfica a la Mac App Store, és de codi obert, el que significa que és gratuït per als usuaris i els desenvolupadors tenen accés lliure per a estudiar-lo, millorar-lo i redistribuir-lo (llicència BSD)</string>
+    
+  <string name="email_text" csv="EMail">Correu</string>
+    
+  <string name="menu_export" csv="Export">Exporta</string>
+    
+  <string name="menu_views" csv="View">Visualitza</string>
+    
+  <string name="preferences_locale_title" csv="Language">Idioma</string>
+    
+  <string name="settings_title" csv="Options_Hint">Preferències</string>
+    
+  <string name="text_output_desc" csv="Text">Text</string>
+    
+  <string name="delete_desc" csv="Delete">Esborra</string>
+    
+  <string name="export_title" csv="Export">Exporta</string>
+    
+  <string name="open_title" csv="Open">Obre</string>
+    
+  <string name="save_title" csv="Save">Desa</string>
+  
+</resources>

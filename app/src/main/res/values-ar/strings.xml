@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(يجب على الأقل فتح ملف واحد)</string>
+    
+  <string name="about_title" csv="About">حول البرنامج</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">تقديم معلومات مفصلة\nحول ملف الوسائط المتعددة :\nMatroska، OGG (including OGM)\nMPEG1 (بما في ذلك VCD)\nMPEG2 (بما في ذلك DVD و SVCD)\nMPEG4 (بما في ذلك Itunes M4A)\nQuicktime\nRealMedia\nWindowsMedia ((بما في ذلك WMV، WMA)\nMicrosoft RIFF ((بما في ذلك AVI, WAV)\nامتدادات الصوت فقط (AC3، DTS، AAC، AU، AIFF...)</string>
+    
+  <string name="email_text" csv="EMail">البريد الإلكتروني</string>
+    
+  <string name="menu_export" csv="Export">تصدير</string>
+    
+  <string name="menu_views" csv="View">رؤية</string>
+    
+  <string name="preferences_locale_title" csv="Language">لغة</string>
+    
+  <string name="settings_title" csv="Options_Hint">تفضيلات</string>
+    
+  <string name="text_output_desc" csv="Text">نص</string>
+    
+  <string name="delete_desc" csv="Delete">حذف</string>
+    
+  <string name="export_title" csv="Export">تصدير</string>
+    
+  <string name="open_title" csv="Open">فتح</string>
+    
+  <string name="save_title" csv="Save">حفظ</string>
+  
+</resources>

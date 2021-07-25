@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Agiri bat gutxienez ireki behar duzu)</string>
+    
+  <string name="about_title" csv="About">Honi buruz</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">MediaInfo-k sarbide erraza eskaintzen du bideo eta audio agirien argibide teknikoetara eta etiketara.\nSoftware askea da, honek esanahi du dohainekoa dela erabiltzaileentzat eta garatzaileek askatasuna dutela ikertzeko, hobetzeko eta programa birbanatzeko (BSD baimena)</string>
+    
+  <string name="email_text" csv="EMail">Post@</string>
+    
+  <string name="menu_export" csv="Export">Esportatu</string>
+    
+  <string name="menu_views" csv="View">Ikusi</string>
+    
+  <string name="preferences_locale_title" csv="Language">Hizkuntza</string>
+    
+  <string name="settings_title" csv="Options_Hint">Hobespenak</string>
+    
+  <string name="text_output_desc" csv="Text">Idazkia</string>
+    
+  <string name="delete_desc" csv="Delete">Ezabatu</string>
+    
+  <string name="export_title" csv="Export">Esportatu</string>
+    
+  <string name="open_title" csv="Open">Ireki</string>
+    
+  <string name="save_title" csv="Save">Gorde</string>
+  
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">Ընտրեք որևէ ֆայլ</string>
+    
+  <string name="about_title" csv="About">Ծրագրի մասին</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">Ցուցադրում է մանրամասն տեղեկություններ\nմուլտիմեդիային ֆայլեր Matroska-ի, OGG-ի (ներառյալ OGM)\nMPEG1-ի (ներառյալ VCD), MPEG2-ի (ներառյալ DVD և SVCD), MPEG4-ի (ներառյալ iTunes M4A)\nQuicktime-ի\nRealMedia-ի\nWindowsMedia-ի (ներառյալ WMV, WMA)\nMicrosoft RIFF-ի (ներառյալ AVI, WAV, DivX)\nձայնային ֆայլերի (AC3, DTS, SSC, AU, AIFF) վերաբերյալ</string>
+    
+  <string name="email_text" csv="EMail">Փոստը</string>
+    
+  <string name="menu_export" csv="Export">Արտածել</string>
+    
+  <string name="menu_views" csv="View">Տեսքը</string>
+    
+  <string name="preferences_locale_title" csv="Language">Լեզուն</string>
+    
+  <string name="settings_title" csv="Options_Hint">Ծրագրի կարգավորումները</string>
+    
+  <string name="text_output_desc" csv="Text">Տեքստ</string>
+    
+  <string name="delete_desc" csv="Delete">Ջնջել</string>
+    
+  <string name="export_title" csv="Export">Արտածել</string>
+    
+  <string name="open_title" csv="Open">Բացել</string>
+    
+  <string name="save_title" csv="Save">Պահպանել</string>
+  
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(至少要打开一个文件)</string>
+    
+  <string name="about_title" csv="About">关于</string>
+    
+  <string name="about_about_text" formatted="false" csv="MediaInfo_About_About">MediaInfo v%MI_VERSION%，内置 MediaInfoLib v%MIL_VERSION%</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">使用 MediaInfo 可以轻松读取音视频文件的编码和标签信息。\n本软件按 BSD 授权协议开源，用户可以免费使用，开发者也可以自由地学习、修改、重新发布本软件。（Mac App Store 图形界面除外）</string>
+    
+  <string name="website_text" csv="WebSite">网站</string>
+    
+  <string name="email_text" csv="EMail">电子邮件</string>
+    
+  <string name="error_write_text" csv="Error_File_Write">写入文件出错</string>
+    
+  <string name="menu_export" csv="Export">导出</string>
+    
+  <string name="menu_views" csv="View">视图</string>
+    
+  <string name="uimode_title" csv="DarkMode">深色模式</string>
+    
+  <string name="preferences_locale_title" csv="Language">语言</string>
+    
+  <string name="report_translate_title" csv="Translate_Reports">翻译报告</string>
+    
+  <string name="settings_title" csv="Options_Hint">设置</string>
+    
+  <string name="premium_title" csv="Premium">高级版</string>
+    
+  <string name="premium_summary" csv="Premium_Summary">高级版订阅功能</string>
+    
+  <string name="subscribe_title" csv="Subscribe">订阅</string>
+    
+  <string name="subscribe_text" csv="Subscribe">订阅</string>
+    
+  <string name="subscribe_button_text" csv="Subscribe_Button">订购 (%PRICE% 一年)</string>
+    
+  <string name="subscribed_text" csv="Subscribe_Manage">管理订阅</string>
+    
+  <string name="thanks_text" csv="Subscription_Thanks">已检测到订阅。感谢您的支持！</string>
+    
+  <string name="subscription_detail_text" formatted="false" csv="Subscription_Android">%PRICE%/年（免费试用 3 天）</string>
+    
+  <string name="store_text" csv="SupportUs">请支持我们。不仅可以解锁深色主题，未来还有更多功能。</string>
+    
+  <string name="clear_text" csv="ClearList">清除列表</string>
+    
+  <string name="text_output_desc" csv="Text">文本</string>
+    
+  <string name="delete_desc" csv="Delete">删除</string>
+    
+  <string name="default_setting_text" csv="Default_Setting">系统默认</string>
+    
+  <string name="export_title" csv="Export">导出</string>
+    
+  <string name="open_title" csv="Open">打开</string>
+    
+  <string name="save_title" csv="Save">保存</string>
+    
+  <string name="media_error_text" csv="External_Media_NotMounted">无法读取外部储存</string>
+  
+</resources>

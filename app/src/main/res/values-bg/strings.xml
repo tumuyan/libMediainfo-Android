@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">Най-малко един файл</string>
+    
+  <string name="about_title" csv="About">За</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">Медиа Инфо_За</string>
+    
+  <string name="email_text" csv="EMail">Имейл</string>
+    
+  <string name="menu_export" csv="Export">Експортиране</string>
+    
+  <string name="menu_views" csv="View">Преглед</string>
+    
+  <string name="preferences_locale_title" csv="Language">Език</string>
+    
+  <string name="settings_title" csv="Options_Hint">Опций_Подсказване</string>
+    
+  <string name="text_output_desc" csv="Text">Текст</string>
+    
+  <string name="delete_desc" csv="Delete">Премахни</string>
+    
+  <string name="export_title" csv="Export">Експортиране</string>
+    
+  <string name="open_title" csv="Open">Отвори</string>
+    
+  <string name="save_title" csv="Save">Запази</string>
+  
+</resources>

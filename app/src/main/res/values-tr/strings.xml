@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(En az bir dosya açmak zorundasınız)</string>
+    
+  <string name="about_title" csv="About">Hakkında</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">MediaInfo, görüntü ve ses dosyaları hakkında teknik ve etiket bilgilerine kolay erişim sağlar.\nMac App Store grafik kullanıcı arayüzü dışında, açık kaynak kodlu yazılımdır, bu da çalışma özgürlüğüne sahip, geliştirmek ve programı yeniden dağıtmak için (BSD lisansı) son kullanıcıya ve geliştiricilere ücretsiz olduğu anlamına gelir.</string>
+    
+  <string name="email_text" csv="EMail">E-Posta</string>
+    
+  <string name="menu_export" csv="Export">Dışa Aktar</string>
+    
+  <string name="menu_views" csv="View">Görünüm</string>
+    
+  <string name="preferences_locale_title" csv="Language">Dil</string>
+    
+  <string name="settings_title" csv="Options_Hint">Tercihler</string>
+    
+  <string name="text_output_desc" csv="Text">Metin</string>
+    
+  <string name="delete_desc" csv="Delete">Sil</string>
+    
+  <string name="export_title" csv="Export">Dışa Aktar</string>
+    
+  <string name="open_title" csv="Open">Aç</string>
+    
+  <string name="save_title" csv="Save">Kaydet</string>
+  
+</resources>

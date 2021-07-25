@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.YarikSOffice:lingver:1.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/184437e01143dfbba8e6ade7846c1c63/lingver-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb918200c789163aafed4d35294a8038/lingver-1.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb918200c789163aafed4d35294a8038/lingver-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bb918200c789163aafed4d35294a8038/lingver-1.2.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.YarikSOffice/lingver/1.2.1/ccd5f7ce4b3bb05ea042a0165e09cfb0da57d02b/lingver-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

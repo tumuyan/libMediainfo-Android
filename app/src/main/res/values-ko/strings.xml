@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(최소한 하나의 파일을 열어야 합니다)</string>
+    
+  <string name="about_title" csv="About">정보</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">미디어 파일에 대한\n상세한 정보를 제공:\nMatroska, OGG (OGM 포함)\nMPEG1 (VCD 포함)\nMPEG2 (DVD와 SVCD 포함)\nMPEG4 (Itunes M4A 포함)\nQuicktime\nRealMedia\nWindowsMedia (WMV, WMA 포함)\nMicrosoft RIFF (AVI, WAV 포함)\n음악 포맷 (AC3, DTS, AAC, AU, AIFF...)</string>
+    
+  <string name="email_text" csv="EMail">이메일</string>
+    
+  <string name="menu_export" csv="Export">내보내기</string>
+    
+  <string name="menu_views" csv="View">보기</string>
+    
+  <string name="preferences_locale_title" csv="Language">언어</string>
+    
+  <string name="settings_title" csv="Options_Hint">환경 설정</string>
+    
+  <string name="text_output_desc" csv="Text">텍스트</string>
+    
+  <string name="delete_desc" csv="Delete">삭제</string>
+    
+  <string name="export_title" csv="Export">내보내기</string>
+    
+  <string name="open_title" csv="Open">열기</string>
+    
+  <string name="save_title" csv="Save">저장</string>
+  
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(حداقل یک فایل را باز کنید)</string>
+    
+  <string name="about_title" csv="About">درباره</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">اطلاعات جزیی\nدرباره فایل مولتی مدیا:\nMatroska, OGG (including OGM)\nMPEG1 (including VCD)\nMPEG2 (including DVD and SVCD)\nMPEG4 (including Itunes M4A)\nQuicktime\nRealMedia\nWindowsMedia (including WMV, WMA)\nMicrosoft RIFF (including AVI, WAV)\nSound-only formats (AC3, DTS, AAC, AU, AIFF...)</string>
+    
+  <string name="email_text" csv="EMail">ایمیل</string>
+    
+  <string name="menu_export" csv="Export">خارج سازی</string>
+    
+  <string name="menu_views" csv="View">نمایش</string>
+    
+  <string name="preferences_locale_title" csv="Language">زبان</string>
+    
+  <string name="settings_title" csv="Options_Hint">تنظیمات</string>
+    
+  <string name="text_output_desc" csv="Text">استریم متن</string>
+    
+  <string name="delete_desc" csv="Delete">حذف</string>
+    
+  <string name="export_title" csv="Export">خارج سازی</string>
+    
+  <string name="open_title" csv="Open">باز کن</string>
+    
+  <string name="save_title" csv="Save">ذخیره</string>
+  
+</resources>

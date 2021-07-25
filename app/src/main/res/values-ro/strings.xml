@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Trebuie sa fie deschis cel putin un fisier)</string>
+    
+  <string name="about_title" csv="About">Despre</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">Furnizeaza informatii foarte detaliate\n despre un fisier multimedia</string>
+    
+  <string name="email_text" csv="EMail">E-mail</string>
+    
+  <string name="menu_export" csv="Export">Export</string>
+    
+  <string name="menu_views" csv="View">Vizualizare</string>
+    
+  <string name="preferences_locale_title" csv="Language">Traducere</string>
+    
+  <string name="settings_title" csv="Options_Hint">Preferinte</string>
+    
+  <string name="text_output_desc" csv="Text">Text</string>
+    
+  <string name="delete_desc" csv="Delete">Sterge</string>
+    
+  <string name="export_title" csv="Export">Export</string>
+    
+  <string name="open_title" csv="Open">Deschide</string>
+    
+  <string name="save_title" csv="Save">Salveaza</string>
+  
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Πρέπει να ανοίξετε τουλάχιστον ένα αρχείο)</string>
+    
+  <string name="about_title" csv="About">Πληροφορίες</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">Παρέχει λεπτομερείς πληροφορίες\nγια αρχεία πολυμέσων:\nMatroska, OGG (συμπεριλαμβάνεται OGM)\nMPEG1 (συμπεριλαμβάνεται VCD)\nMPEG2 (συμπεριλαμβάνεται DVD και SVCD)\nMPEG4 (συμπεριλαμβάνεται Itunes M4A)\nQuicktime\nRealMedia\nWindowsMedia (συμπεριλαμβάνεται WMV, WMA)\nMicrosoft RIFF (συμπεριλαμβάνεται AVI, WAV)\nΜορφοποιήσεις ήχου (AC3, DTS, AAC, AU, AIFF...)</string>
+    
+  <string name="email_text" csv="EMail">E-Mail</string>
+    
+  <string name="menu_export" csv="Export">Εξαγωγή</string>
+    
+  <string name="menu_views" csv="View">Προβολή</string>
+    
+  <string name="preferences_locale_title" csv="Language">Γλώσσα</string>
+    
+  <string name="settings_title" csv="Options_Hint">Προτιμήσεις</string>
+    
+  <string name="text_output_desc" csv="Text">Κείμενο</string>
+    
+  <string name="delete_desc" csv="Delete">Διαγραφή</string>
+    
+  <string name="export_title" csv="Export">Εξαγωγή</string>
+    
+  <string name="open_title" csv="Open">Άνοιγμα</string>
+    
+  <string name="save_title" csv="Save">Αποθήκευση</string>
+  
+</resources>

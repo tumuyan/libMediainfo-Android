@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Legalább egy fájlt meg kell nyitni)</string>
+    
+  <string name="about_title" csv="About">Névjegy</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">Igen részletes adatok az alábbi\nmultimédia fájlokról:\nMatroska, OGG (OGM is)\nMPEG1 (VCD is)\nMPEG2 (DVD és SVCD is)\nMPEG4 (Itunes M4A is)\nQuicktime\nRealMedia\nWindowsMedia (WMV, WMA is)\nMicrosoft RIFF (AVI, WAV is)\nCsak hangot tartalmazó fájlok (AC3, DTS, AAC, AU, AIFF...)</string>
+    
+  <string name="email_text" csv="EMail">Email</string>
+    
+  <string name="menu_export" csv="Export">Exportálás</string>
+    
+  <string name="menu_views" csv="View">Nézet</string>
+    
+  <string name="preferences_locale_title" csv="Language">Nyelv</string>
+    
+  <string name="settings_title" csv="Options_Hint">Beállítások</string>
+    
+  <string name="text_output_desc" csv="Text">Szöveg</string>
+    
+  <string name="delete_desc" csv="Delete">Törlés</string>
+    
+  <string name="export_title" csv="Export">Exportálás</string>
+    
+  <string name="open_title" csv="Open">Megnyit</string>
+    
+  <string name="save_title" csv="Save">Mentés</string>
+  
+</resources>

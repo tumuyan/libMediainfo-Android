@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Morate otvoriti bar jednu datoteku)</string>
+    
+  <string name="about_title" csv="About">O programu...</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">Pruža vrlo podrobne informacije\no multimedijalnim datotekama:\nMatroska, OGG (uključujući OGM)\nMPEG1 (uključujući VCD)\nMPEG2 (uključujući DVD i SVCD)\nMPEG4 (uključujući Itunes M4A)\nQuicktime\nRealMedia\nWindowsMedia (uključujući WMV, WMA)\nMicrosoft RIFF (uključujući AVI, WAV)\nSamo zvukovnim oblicima (AC3, DTS, AAC, AU, AIFF...)</string>
+    
+  <string name="email_text" csv="EMail">E-pošta</string>
+    
+  <string name="menu_export" csv="Export">Izvoz</string>
+    
+  <string name="menu_views" csv="View">Prikaz</string>
+    
+  <string name="preferences_locale_title" csv="Language">Jezik</string>
+    
+  <string name="settings_title" csv="Options_Hint">Prilagodbe</string>
+    
+  <string name="text_output_desc" csv="Text">Tekst</string>
+    
+  <string name="delete_desc" csv="Delete">Izbrisati</string>
+    
+  <string name="export_title" csv="Export">Izvoz</string>
+    
+  <string name="open_title" csv="Open">Otvoriti</string>
+    
+  <string name="save_title" csv="Save">Pohraniti</string>
+  
+</resources>

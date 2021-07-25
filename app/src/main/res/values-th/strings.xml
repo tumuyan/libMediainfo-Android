@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(คุณต้องเปิดอย่างน้อยหนึ่งไฟล์)</string>
+    
+  <string name="about_title" csv="About">เกี่ยวกับ</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">แสดงข้อมูลอย่างละเอียด\nของไฟล์มัลติมีเดีย:\nMatroska, OGG (รวมทั้ง OGM)\nMPEG1 (รวมทั้ง VCD)\nMPEG2 (รวมทั้ง DVD และ SVCD)\nMPEG4 (รวมทั้ง Itunes M4A)\nQuicktime\nRealMedia\nWindowsMedia (รวมทั้ง WMV, WMA)\nMicrosoft RIFF (รวมทั้ง AVI, WAV)\nรูปแบบเสียงอย่างเดียว (AC3, DTS, AAC, AU, AIFF...)</string>
+    
+  <string name="email_text" csv="EMail">อี-เมลล์</string>
+    
+  <string name="menu_export" csv="Export">ส่งออก</string>
+    
+  <string name="menu_views" csv="View">มุมมอง</string>
+    
+  <string name="preferences_locale_title" csv="Language">ภาษา</string>
+    
+  <string name="settings_title" csv="Options_Hint">การปรับแต่ง</string>
+    
+  <string name="text_output_desc" csv="Text">ข้อความ</string>
+    
+  <string name="delete_desc" csv="Delete">ลบ</string>
+    
+  <string name="export_title" csv="Export">ส่งออก</string>
+    
+  <string name="open_title" csv="Open">เปิด</string>
+    
+  <string name="save_title" csv="Save">บันทึก</string>
+  
+</resources>

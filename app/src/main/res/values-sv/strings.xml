@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Du måste öppna minst en fil)</string>
+    
+  <string name="about_title" csv="About">Om</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">MediaInfo tillhandahåller enkel tillgång till teknisk information, och tagginformation, om video- och ljudfiler.\nFörutom Mac App Stores grafiska användargränsnitt, är mjukvaran öppen källkod. Det innebär att den är kostnadsfri för slutanvändaren och att andra utvecklare tillåts studera, förbättra och återdistribuera programmet (BSD-licens).</string>
+    
+  <string name="email_text" csv="EMail">E-post</string>
+    
+  <string name="menu_export" csv="Export">Exportera</string>
+    
+  <string name="menu_views" csv="View">Visa</string>
+    
+  <string name="preferences_locale_title" csv="Language">Språk</string>
+    
+  <string name="settings_title" csv="Options_Hint">Inställningar</string>
+    
+  <string name="text_output_desc" csv="Text">Text</string>
+    
+  <string name="delete_desc" csv="Delete">Tabort</string>
+    
+  <string name="export_title" csv="Export">Exportera</string>
+    
+  <string name="open_title" csv="Open">Öppna</string>
+    
+  <string name="save_title" csv="Save">Spara</string>
+  
+</resources>

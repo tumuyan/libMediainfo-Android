@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Du skal åbne mindst en fil)</string>
+    
+  <string name="about_title" csv="About">Om</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">Leverer meget detaljeret information\nom en multimediefil:\nMatroska, Ogg (inklusive OGM)\nMPEG1 (inklusive VCD)\nMPEG2 (inklusive DVD og SVCD)\nMPEG4 (inklusive Itunes M4A)\nQuicktime\nRealMedia\nWindowsMedia (inklusive WMV, WMA)\Microsoft RIFF (inklusive AVI, WAV)\nRene lydformater (AC3, DTS, AAC, AU, AIFF...)</string>
+    
+  <string name="email_text" csv="EMail">E-mail</string>
+    
+  <string name="menu_export" csv="Export">Eksporter</string>
+    
+  <string name="menu_views" csv="View">Vis</string>
+    
+  <string name="preferences_locale_title" csv="Language">Sprog</string>
+    
+  <string name="settings_title" csv="Options_Hint">Præferencer</string>
+    
+  <string name="text_output_desc" csv="Text">Tekst</string>
+    
+  <string name="delete_desc" csv="Delete">Slet</string>
+    
+  <string name="export_title" csv="Export">Eksporter</string>
+    
+  <string name="open_title" csv="Open">Åbn</string>
+    
+  <string name="save_title" csv="Save">Gem</string>
+  
+</resources>

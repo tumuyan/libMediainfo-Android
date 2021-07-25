@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--  Copyright (c) MediaArea.net SARL. All Rights Reserved.
+
+      Use of this source code is governed by a BSD-style license that can
+      be found in the License.html file in the root of the source tree.
+-->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="2dp"
+    android:layout_marginRight="2dp"
+    android:baselineAligned="false"
+    android:divider="?android:attr/dividerHorizontal"
+    android:orientation="horizontal"
+    android:showDividers="middle"
+    tools:context=".ReportListActivity">
+
+    <!-- This layout is a two-pane layout for the master/detail flow. -->
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="@dimen/item_width"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:context="net.mediaarea.mediainfo.ReportListActivity"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/report_list"
+                android:name="net.mediaarea.mediainfo.ReportListFragment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                tools:context="net.mediaarea.mediainfo.ReportListActivity"
+                tools:listitem="@layout/report_list_content" />
+            <Button
+                android:id="@+id/clear_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FFCCCCCC"
+                android:text="@string/clear_text"
+                android:layout_gravity="center"
+                style="@style/Widget.AppCompat.Button.Borderless" />
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <FrameLayout
+        android:id="@+id/report_detail_container"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3" />
+
+</LinearLayout>

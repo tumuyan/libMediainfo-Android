@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Devi aprire almeno un file)</string>
+    
+  <string name="about_title" csv="About">Informazioni</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">MediaInfo fornisce un accesso veloce alle informazioni tecniche ed ai tag dei file audio e video.\nAd eccezione dell\'interfaccia grafica Mac APp Store, è un software open-source, ciò significa che il programma è gratuito per l\'utente finale e che lo sviluppatore è libero di studiare, migliorare e ridistribuire (licenza LGPL).</string>
+    
+  <string name="email_text" csv="EMail">Email</string>
+    
+  <string name="menu_export" csv="Export">Esporta</string>
+    
+  <string name="menu_views" csv="View">Visualizza</string>
+    
+  <string name="preferences_locale_title" csv="Language">Lingua</string>
+    
+  <string name="settings_title" csv="Options_Hint">Preferenze</string>
+    
+  <string name="text_output_desc" csv="Text">Testo</string>
+    
+  <string name="delete_desc" csv="Delete">Elimina</string>
+    
+  <string name="export_title" csv="Export">Esporta</string>
+    
+  <string name="open_title" csv="Open">Apri</string>
+    
+  <string name="save_title" csv="Save">Salva</string>
+  
+</resources>

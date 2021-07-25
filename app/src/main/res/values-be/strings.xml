@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">Як мінімум адзін файл</string>
+    
+  <string name="about_title" csv="About">Пра праграму</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">Адлюстроўвае дэталёвую інфармацыю\nпра мультымедыя-файлы Matroska, OGG (уключаючы OGM)\nMPEG1 (уключаючы VCD), MPEG2 (уключаючы DVD і SVCD), MPEG4 (уключаючы iTunes M4A)\nQuicktime\nRealMedia\nWindowsMedia (уключаючы WMV, WMA)\nMicrosoft RIFF (уключаючы AVI, WAV, DivX)\nгукавыя фарматы (AC3, DTS, SSC, AU, AIFF)</string>
+    
+  <string name="email_text" csv="EMail">Пошта</string>
+    
+  <string name="menu_export" csv="Export">Экспарт</string>
+    
+  <string name="menu_views" csv="View">Прагляд</string>
+    
+  <string name="preferences_locale_title" csv="Language">Мова</string>
+    
+  <string name="settings_title" csv="Options_Hint">Налады праграмы</string>
+    
+  <string name="text_output_desc" csv="Text">Тэкст</string>
+    
+  <string name="delete_desc" csv="Delete">Выдаліць</string>
+    
+  <string name="export_title" csv="Export">Экспарт</string>
+    
+  <string name="open_title" csv="Open">Адкрыць</string>
+    
+  <string name="save_title" csv="Save">Захаваць</string>
+  
+</resources>

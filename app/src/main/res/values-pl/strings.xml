@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Musisz wczytać co najmniej jeden plik)</string>
+    
+  <string name="about_title" csv="About">O programie</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">Dostarcza bardzo szczegółowe informacje\no pliku multimedialnym:\nMatroska, OGG (wraz z OGM)\nMPEG1 (wraz z VCD)\nMPEG2 (wraz z DVD i SVCD)\nMPEG4 (wraz z iTunes M4A)\nQuicktime\nRealMedia\nWindowsMedia (wraz z  WMV, WMA)\nMicrosoft RIFF (wraz z AVI, WAV)\nFormaty dźwiekowe (AC3, DTS, AAC, AU, AIFF...)</string>
+    
+  <string name="email_text" csv="EMail">email</string>
+    
+  <string name="menu_export" csv="Export">Eksport</string>
+    
+  <string name="menu_views" csv="View">Widok</string>
+    
+  <string name="preferences_locale_title" csv="Language">Język</string>
+    
+  <string name="settings_title" csv="Options_Hint">Preferencje</string>
+    
+  <string name="text_output_desc" csv="Text">Tekst</string>
+    
+  <string name="delete_desc" csv="Delete">Usuń</string>
+    
+  <string name="export_title" csv="Export">Eksport</string>
+    
+  <string name="open_title" csv="Open">Otwórz</string>
+    
+  <string name="save_title" csv="Save">Zapisz</string>
+  
+</resources>

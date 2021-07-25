@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Abre al menos un archivo)</string>
+    
+  <string name="about_title" csv="About">Acerca de </string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">MediaInfo muestra información detallada de archivos multimedia:\nExcepto la interfaz gráfica de la Mac App Store, es software libre, lo que significa que es gratis para los usuarios y los desarrolladores tienen libertad para estudiar, mejorar y redistribuir el programa (licencia BSD)</string>
+    
+  <string name="email_text" csv="EMail">Correo</string>
+    
+  <string name="menu_export" csv="Export">Exportar</string>
+    
+  <string name="menu_views" csv="View">Ver</string>
+    
+  <string name="preferences_locale_title" csv="Language">Idioma</string>
+    
+  <string name="settings_title" csv="Options_Hint">Preferencias</string>
+    
+  <string name="text_output_desc" csv="Text">Texto</string>
+    
+  <string name="delete_desc" csv="Delete">Eliminar</string>
+    
+  <string name="export_title" csv="Export">Exportar</string>
+    
+  <string name="open_title" csv="Open">Abrir</string>
+    
+  <string name="save_title" csv="Save">Guardar</string>
+  
+</resources>

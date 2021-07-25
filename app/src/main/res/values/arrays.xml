@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string-array name="uimodes">
+        
+    <item>@string/default_setting_text</item>
+        
+    <item>Off</item>
+        
+    <item>On</item>
+      
+  </string-array>
+    
+  <string-array name="uimodes_values">
+        
+    <item>system</item>
+        
+    <item>off</item>
+        
+    <item>on</item>
+      
+  </string-array>
+    
+  <string-array name="locales">
+        
+    <item>@string/default_setting_text</item>
+        
+    <item>Català</item>
+        
+    <item>Czech</item>
+        
+    <item>Dansk</item>
+        
+    <item>Deutsch</item>
+        
+    <item>English</item>
+        
+    <item>Español</item>
+        
+    <item>Euskara</item>
+        
+    <item>Français</item>
+        
+    <item>Galego</item>
+        
+    <item>Hrvatski</item>
+        
+    <item>Italiano</item>
+        
+    <item>Lithuanian</item>
+        
+    <item>Nederlands</item>
+        
+    <item>Persian  فارسی</item>
+        
+    <item>Polski</item>
+        
+    <item>Português (Brasil)</item>
+        
+    <item>Português (Portugal)</item>
+        
+    <item>Romana</item>
+        
+    <item>Shqip</item>
+        
+    <item>Slovak</item>
+        
+    <item>Svenska</item>
+        
+    <item>Türkçe</item>
+        
+    <item>magyar</item>
+        
+    <item>Ελληνικά</item>
+        
+    <item>Беларуская</item>
+        
+    <item>Български</item>
+        
+    <item>Русский</item>
+        
+    <item>Українська</item>
+        
+    <item>Հայերեն</item>
+        
+    <item>العربية</item>
+        
+    <item>ไทย</item>
+        
+    <item>ქართული</item>
+        
+    <item>日本語</item>
+        
+    <item>简体中文</item>
+        
+    <item>華語 (台灣)</item>
+        
+    <item>香港正體字</item>
+        
+    <item>한국어</item>
+      
+  </string-array>
+    
+  <string-array name="locales_values">
+        
+    <item>system</item>
+        
+    <item>ca</item>
+        
+    <item>cs</item>
+        
+    <item>da</item>
+        
+    <item>de</item>
+        
+    <item>en</item>
+        
+    <item>es</item>
+        
+    <item>eu</item>
+        
+    <item>fr</item>
+        
+    <item>gl</item>
+        
+    <item>hr</item>
+        
+    <item>it</item>
+        
+    <item>lt</item>
+        
+    <item>nl</item>
+        
+    <item>fa</item>
+        
+    <item>pl</item>
+        
+    <item>pt-rBR</item>
+        
+    <item>pt</item>
+        
+    <item>ro</item>
+        
+    <item>sq</item>
+        
+    <item>sk</item>
+        
+    <item>sv</item>
+        
+    <item>tr</item>
+        
+    <item>hu</item>
+        
+    <item>gr</item>
+        
+    <item>be</item>
+        
+    <item>bg</item>
+        
+    <item>ru</item>
+        
+    <item>uk</item>
+        
+    <item>hy</item>
+        
+    <item>ar</item>
+        
+    <item>th</item>
+        
+    <item>ka</item>
+        
+    <item>ja</item>
+        
+    <item>zh-rCN</item>
+        
+    <item>zh-rTW</item>
+        
+    <item>zh-rHK</item>
+        
+    <item>ko</item>
+      
+  </string-array>
+  
+</resources>

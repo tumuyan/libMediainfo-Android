@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(Turite atverti bent vieną failą)</string>
+    
+  <string name="about_title" csv="About">Apie</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">Teikiama detali informacija\napie daugialypes bylas:\nMatroska, OGG (įskaitant OGM)\nMPEG1 (įskaitant VCD)\nMPEG2 (įskaitant DVD ir SVCD)\nMPEG4 (įskaitant Itunes M4A)\nQuicktime\nRealMedia\nWindowsMedia (įskaitant WMV, WMA)\nMicrosoft RIFF (įskaitant AVI, WAV)\nTik-Garso formatai (AC3, DTS, AAC, AU, AIFF...)</string>
+    
+  <string name="email_text" csv="EMail">El. paštas</string>
+    
+  <string name="menu_export" csv="Export">Eksportuoti</string>
+    
+  <string name="menu_views" csv="View">Rodymas</string>
+    
+  <string name="preferences_locale_title" csv="Language">Kalba</string>
+    
+  <string name="settings_title" csv="Options_Hint">Nuostatos</string>
+    
+  <string name="text_output_desc" csv="Text">Tekstas</string>
+    
+  <string name="delete_desc" csv="Delete">Pašalinti</string>
+    
+  <string name="export_title" csv="Export">Eksportuoti</string>
+    
+  <string name="open_title" csv="Open">Atverti</string>
+    
+  <string name="save_title" csv="Save">Išsaugoti</string>
+  
+</resources>

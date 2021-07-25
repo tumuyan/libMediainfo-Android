@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">（請選取檔案）</string>
+    
+  <string name="about_title" csv="About">關於</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">使用MediaInfo可輕易觀看影音和圖像檔案的技術和標籤資訊。\n除蘋果應用程式商店圖像用戶介面外，它是開源的。\n按BSD式授權協議，用戶和開發者可免費研習、更改和再發佈本程式。</string>
+    
+  <string name="email_text" csv="EMail">電郵</string>
+    
+  <string name="menu_export" csv="Export">匯出</string>
+    
+  <string name="menu_views" csv="View">檢視</string>
+    
+  <string name="preferences_locale_title" csv="Language">語言</string>
+    
+  <string name="settings_title" csv="Options_Hint">喜好設定</string>
+    
+  <string name="text_output_desc" csv="Text">文字</string>
+    
+  <string name="delete_desc" csv="Delete">刪除</string>
+    
+  <string name="export_title" csv="Export">匯出</string>
+    
+  <string name="open_title" csv="Open">開啟</string>
+    
+  <string name="save_title" csv="Save">儲存</string>
+  
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    
+  <string name="hello_text" csv="At least one file">(您最少要開啟一個檔案)</string>
+    
+  <string name="about_title" csv="About">關於</string>
+    
+  <string name="about_description_text" csv="MediaInfo_About">支援非常詳盡的多媒體檔案資訊:\nMatroska, OGG (包含 OGM)\nMPEG-1 (包含 VCD)\nMPEG-2 (包含 DVD, SVCD)\nMPEG-4 (包含 iTunes M4A)\nQuicktime\nRealMedia\nWindowsMedia (包含 WMV, WMA)\nMicrosoft RIFF (包含 AVI, WAV)\n純聲音格式 (AC3, DTS, AAC, AU, AIFF...)</string>
+    
+  <string name="email_text" csv="EMail">電子信箱</string>
+    
+  <string name="menu_export" csv="Export">匯出</string>
+    
+  <string name="menu_views" csv="View">檢視</string>
+    
+  <string name="preferences_locale_title" csv="Language">語系</string>
+    
+  <string name="settings_title" csv="Options_Hint">偏好設定</string>
+    
+  <string name="text_output_desc" csv="Text">文字</string>
+    
+  <string name="delete_desc" csv="Delete">刪除</string>
+    
+  <string name="export_title" csv="Export">匯出</string>
+    
+  <string name="open_title" csv="Open">開啟</string>
+    
+  <string name="save_title" csv="Save">儲存</string>
+  
+</resources>
